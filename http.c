@@ -13,6 +13,13 @@
  *  5) Remove -lsocket from the Makefile.
  */
 
+#include <stdio.h>
 
+
+int main()
+{
+    printf("Hello world\n");
+    return 0;
+}
 // 修改測試
 
