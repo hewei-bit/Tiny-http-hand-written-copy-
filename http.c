@@ -14,12 +14,14 @@
  */
 
 #include <stdio.h>
-
+//作者：hewei
 
 int main()
 {
+    int *p;
+    printf("%d", *p);
     printf("Hello world\n");
+
     return 0;
 }
 // 修改測試
-
